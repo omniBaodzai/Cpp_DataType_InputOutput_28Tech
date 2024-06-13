@@ -1,5 +1,5 @@
 /*
-Kiểm cha phạm vị giá trị của kiểu dữ liệu
+Kiểm tra phạm vị giá trị của kiểu dữ liệu
 */
 
 #include <iostream>
